@@ -77,7 +77,7 @@ Ce qui donne :
 
 # Pourquoi l’ancienne version plantait
 
-Tu avais :
+j'avais :
 
 ```js
 {
@@ -225,7 +225,7 @@ Exemple :
 
 → variable GET envoyée au serveur.
 
-Tu peux en avoir plusieurs :
+je peux en avoir plusieurs :
 
 ```text
 ?color=white&size=42
